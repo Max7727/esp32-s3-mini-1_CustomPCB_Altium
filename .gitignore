@@ -1,0 +1,13 @@
+_MyNotes.docx
+
+
+# Ignore an entire folder
+History/
+__Previews/
+Project Logs for First_pRoJeCt/
+
+# Ignore by extension
+*.PrjPcbStructure
+
+
+
