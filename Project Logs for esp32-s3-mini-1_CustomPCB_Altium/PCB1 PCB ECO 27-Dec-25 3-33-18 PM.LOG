@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=diff19 Member=con_esp_usb_n
+Removed Member From Class: ClassName=diff19 Member=con_esp_usb_p
+Added Pin To Net: NetName=con2_usb_n Pin=U1-23
+Added Pin To Net: NetName=con2_usb_p Pin=U1-24
+Change Net Color : Old Net Color=Blue New Net Color=Default
+Added Differential Pair: Name=con2_usb
+Added Member To Class: ClassName=diff19 Member=Wire con2_usb_n
+Added Member To Class: ClassName=diff19 Member=Wire con2_usb_p
