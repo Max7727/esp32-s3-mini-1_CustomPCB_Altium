@@ -1,22 +1,14 @@
-_MyNotes.docx
-_$yNotes.docx
-~$yNotes.docx
-~WRL0003.tmp
+
 *.tmp
 *.docx
-
+*.PrjPcbStructure
 
 
 # Ignore an entire folder
 History/
 __Previews/
-History/
-__Previews/
-Project Logs for First_pRoJeCt/
 Project Logs for First_pRoJeCt/
 
-# Ignore by extension
-*.PrjPcbStructure
 
 
 
