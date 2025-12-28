@@ -1,4 +1,10 @@
 _MyNotes.docx
+_$yNotes.docx
+~$yNotes.docx
+~WRL0003.tmp
+*.tmp
+*.docx
+
 
 
 # Ignore an entire folder
@@ -8,6 +14,7 @@ Project Logs for First_pRoJeCt/
 
 # Ignore by extension
 *.PrjPcbStructure
+
 
 
 
