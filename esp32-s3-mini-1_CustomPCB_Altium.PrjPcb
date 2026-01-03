@@ -117,6 +117,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKNAEEXY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for esp32-s3-mini-1_CustomPCB_Altium\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
